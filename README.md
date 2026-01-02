@@ -52,4 +52,4 @@ Basta abrir o `index.html` em qualquer navegador ou utilizar a extensão **Live 
 
 O design foi focado em uma experiência imersiva e vibrante, utilizando elementos visuais que remetem ao universo musical, como barras de frequência e ícones lúdicos.
 
-                                                  Feito com ♥ by Leandro Abdallah.
+Feito com ♥ by Leandro Abdallah.
